@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm a second year Computer Science student with a major in AI and minor in Economics at Queen's University with a strong passion for design, development, interactive AI’s
-🌱 <Currently working on building projects />
+🌱 Currently working on building projects
 
 <!--
 **hargunkour/hargunkour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
